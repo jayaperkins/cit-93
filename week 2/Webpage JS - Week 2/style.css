@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+#wrap {
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+#title {
+    width: auto;
+    background-color: aqua;
+    margin:0;
+    padding: 10px;
+}
+
+#content {
+    width: auto;
+    background-color: saddlebrown;
+    margin:0;
+    padding:10px;
+}
+
+#content p {
+    text-align: center;
+    color: white;
+}
+
+#image {
+    padding: 10px;
+}
+
+#foot {
+    background-color: chocolate;
+    padding: 10px;
+    float: bottom;
+}

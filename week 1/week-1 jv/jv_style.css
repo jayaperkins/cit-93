@@ -1,0 +1,112 @@
+/*
+    Example Stylesheet / Josh Vogelgesang
+    2015-08-23 v.1
+*/
+body {
+    font-family: sans-serif;
+    background: #666;
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    margin: 40px;
+    width: 700px;
+}
+#header {
+    margin: 0;
+    margin-bottom: 40px;
+    padding: 0;
+}
+#pageTitle {
+    background: darkorange;
+}
+#pageTitle h1 {
+    color: palegoldenrod;
+    margin: 0;
+    padding: 16px;
+}
+#topMenu {
+    margin: 0;
+    padding: 0;
+}
+#topMenu ul {
+    list-style: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 8px;
+    background: darkred;
+    height: 32px;
+}
+#topMenu ul li {
+    list-style: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    left: 155px;
+    float: left;
+}
+#topMenu ul li a {
+    color: white;
+    padding: 8px;
+    width: 155px;
+    display: block;
+}
+#body {
+    background: darkgray;
+    height: auto;
+}
+#sidebar {
+    margin: 0px;
+    width: 100px;
+    padding: 0;
+}
+#sidebar ul, #sidebar ul li {
+    list-style: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#sidebar ul li a {
+    display: block;
+    padding: 8px;}
+#content {
+    background: white;
+    float: right;
+    width: 584px;
+    margin: 0px;
+    padding: 8px;
+}
+#content h1 {
+    margin: 0;
+    padding: 0;
+}
+#contentAd {
+    float: right;
+    background: blue;
+    color white;
+    width: 100px;
+    height: 200px;
+}
+#contentAd span {
+    padding: 0;
+    position: relative;
+    top: 45%;
+    width: 100%;
+    display: block;
+    text-align: center;
+    color: white;
+    font-size: 10px;
+}
+#footer {
+    clear:both;
+    background: darkorange;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+    
+    
+    
+    

@@ -1,0 +1,28 @@
+#wrap {
+    text-align: center;
+    background-color: chartreuse;
+    width: auto;
+    height: auto;
+}
+
+#title {
+    width: auto;
+    background-color: aqua;
+    margin:0;
+}
+
+#content {
+    width: auto;
+    background-color: saddlebrown;
+    margin:0;
+    padding:10px;
+}
+
+#content p {
+    text-align: center;
+    color: white;
+}
+
+#image {
+    padding: 10px;
+}

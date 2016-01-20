@@ -1,0 +1,10 @@
+body {
+    background-color: darkblue;
+}
+
+#randomNames {
+    font-family: fantasy;
+    font-size: 250px;
+    text-align: center;
+    color: crimson;
+}

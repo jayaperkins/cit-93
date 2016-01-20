@@ -1,0 +1,153 @@
+body {
+    background-color: #939393;
+    width: 750px;
+    font-family: sans-serif;
+}
+
+#wrap {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 700px;
+}
+
+#title {
+    height: 100px;
+    color: lightyellow;
+    background-color: darkorange;
+    width: 700px;
+}
+
+
+.schoolName {
+    padding-left: 40px;
+    padding-top: 30px;
+    margin-bottom: 0px;
+}
+
+
+#topMenu {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+
+#topMenu ul {
+    list-style: none;
+    margin: 0;
+    padding: 8px;
+    background: darkred;
+    height: 32px;
+}
+
+#topMenu ul li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    float: left;
+}
+
+#topMenu ul li a {
+    color: white;
+    padding: 8px;
+    width: 155px;
+    display: block;
+    text-align: center;
+}
+
+
+#sideBar {
+    margin: 0;
+    padding-top: 30px;
+    width: 100px;
+    height: 310px;
+    background-color: #494949;
+}
+
+#sideBar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#sideBar ul li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#sideBar ul li a {
+    display: block;
+    padding: 15px;
+    color: white;
+}
+
+
+#ad {
+    float: right;
+    margin-right: 2px;
+    height: 200px;
+    width: 100px;
+    position: relative;
+    right: 10px;
+    bottom: 665px;
+    background-color: blue;
+    color: white;
+}
+
+#ad span {
+    padding: 10px;
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 50px;
+
+}
+
+#body {
+    margin: 0;
+    padding: 0;
+    z-index: -1;
+    position: relative;
+    left: 100px;
+    bottom: 340px;
+    width: 600px;
+    height: 340px;
+    background-color: white;
+}
+
+.content {
+    position: relative;
+    top: 75px;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+
+.content p {
+    font-family: Times;
+    margin: 10px;
+    position: center;
+    padding: 10px;
+}
+
+.webpageTitle {
+    color: white;
+    text-align: center;
+}
+
+#footer {
+    position:absolute;
+    bottom:0;
+    width:700px;
+    height:60px;
+    background:darkOrange;
+    margin-bottom: 40px;
+}
+
+
+

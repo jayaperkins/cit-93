@@ -1,0 +1,77 @@
+body {
+    background-color: aquamarine;
+    font-family: fantasy;
+    font-style: oblique;
+}
+
+#returnBookTitle {
+    text-align: center;
+    color: slategrey;
+}
+
+#returnBookAuthor {
+    text-align: center;
+    color: blueviolet;
+}
+
+#returnBookDescription {
+    text-align: center;
+    color: chocolate;
+}
+
+#returnBookImage {
+    text-align: center;
+    width: auto;
+    margin: 0;
+    padding: 0;
+}
+
+#returnBookPublisher {
+    color: mediumvioletred;
+    margin: 0;
+    padding: 20px;
+    float: left;
+}
+
+#returnBookPages {
+    color: mediumvioletred;
+    margin: 0;
+    padding: 20px;
+    float: left;
+}
+
+#returnBookISBN {
+    color: mediumvioletred;
+    margin: 0;
+    padding: 20px;
+    float: left;
+}
+
+#returnBookPrice {
+    color: brown;
+    margin: 0;
+    padding: 20px;
+    float: right;
+}
+
+#returnTaxRate {
+    color: brown;
+    margin: 0;
+    padding: 20px;
+    float: right;
+}
+
+#returnShippingCost {
+    color: brown;
+    margin: 0;
+    padding: 20px;
+    float: right;
+}
+
+
+#returnBookTotalCost {
+    color: brown;
+    margin: 0;
+    padding: 20px;
+    float: right;
+}
